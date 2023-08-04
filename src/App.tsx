@@ -1,11 +1,9 @@
 import {
   Box,
-  Divider,
   Flex,
   Grid,
   GridItem,
   Show,
-  color,
 } from "@chakra-ui/react";
 import NavBar from "./components/NavBar";
 import GameGrid from "./components/GameGrid";
