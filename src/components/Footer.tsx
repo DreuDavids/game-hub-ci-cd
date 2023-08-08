@@ -12,7 +12,7 @@ const Footer = () => {
           textAlign={"center"}
           color="gray.600"
         >
-          Tumelo Tumi David Andreu Modise
+          Tumelo David Andreu Modise
         </Heading>
         <HStack justifyContent={"center"} spacing={7}>
           <a href="https://github.com/DreuDavids">
